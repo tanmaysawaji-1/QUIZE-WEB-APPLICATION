@@ -1,21 +1,49 @@
-# QUIZE-WEB-APPLICATION
+# Quiz Web Application
 
-**COMPANY**:CODTECH IT SOLUTIONS
+A simple and interactive web quiz application built using **HTML**, **CSS**, and **JavaScript**.
 
-**NAME**:TANMAY SUBHASH SAWAJI
+This project allows users to take a quiz, select answers, and view real-time feedback. It demonstrates dynamic UI updates using JavaScript DOM manipulation without any backend.
 
-**INTERN ID**:CT08FVN
+---
 
-**DOMAIN**:Frontend Web Development
+## 🌐 Live Demo
 
-**BATCH DURATION**: December 25th, 2024 --- January 25th, 2025.
+🚀 **Live Preview (GitHub Pages):**  
+https://github.com/tanmaysawaji-1/QUIZE-WEB-APPLICATION
 
-**MENTOR NAME**:Neela Santhosh Kumar
+---
 
-**OUTPUT OF THE TASK**:![Image](https://github.com/user-attachments/assets/f12cc2fd-27b7-49af-8624-c081d3f32aae)
+## 📌 Project Description
 
-![Image](https://github.com/user-attachments/assets/71a04a6c-c658-40a3-872f-e5835dff9c0d)
+The **Quiz Web Application** is designed to test user knowledge through a series of questions. It uses JavaScript to update the UI dynamically based on user input, offering a smooth and engaging experience.
 
-![Image](https://github.com/user-attachments/assets/e23235dd-b397-41b4-bdef-aeae1b46f69c)
+Key functionalities include:
+- Sequential display of quiz questions
+- Interactive answer selection
+- Real-time feedback logic
+- Clean, responsive frontend
 
-![Image](https://github.com/user-attachments/assets/9e05ad10-2328-47e9-b8b1-ffe458de1d53)
+---
+
+## 🧠 Features
+
+✔ Dynamic quiz interface using JavaScript  
+✔ Multiple questions and answer choices  
+✔ Immediate feedback on selection  
+✔ Simple and clean UI  
+✔ Responsive design for different screen sizes
+
+---
+
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5      | Structure & Layout |
+| CSS3       | Styling |
+| JavaScript | Logic & Interactivity |
+
+---
+
+
